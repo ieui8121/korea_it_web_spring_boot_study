@@ -11,4 +11,4 @@ public class SpringBootStudyApplication {
 	}
 
 }
-//test
+//test2

@@ -12,7 +12,7 @@ public class SpringBootStudyApplication {
 
 }
 //M (model)
-//데이터 및 비지니스 로직 처리
+//데이터 및 비즈니스 로직 처리 - Entity, Service, Repository
 
 //V (View)
 //사용자에게 보여지는 화면 - html, Json, 응답 등등
